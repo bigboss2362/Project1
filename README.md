@@ -1,5 +1,6 @@
 # Project1
 linkedin'de paylaştığım projemin tüm kodları içeren dosyaları da ekledim.
+readme kısmıın genai'ya yazdırdım :)
 
 # Laborant Vardiya ve Cihaz Atama Sistemi
 
